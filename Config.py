@@ -33,4 +33,4 @@ class Messages():
         "**𝐑𝐞𝐩𝐨𝐫𝐭 𝐁𝐮𝐠𝐬 🔽**"
       ]
 
-      START_MSG = "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\nLearn more at /help__"
+      START_MSG = "**𝐇𝐞𝐲 [{}](tg://user?id={})**\n**𝐈 𝐜𝐚𝐧 𝐟𝐨𝐫𝐜𝐞 𝐦𝐞𝐦𝐛𝐞𝐫𝐬 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐚 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐛𝐞𝐟𝐨𝐫𝐞 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩.\n𝐋𝐞𝐚𝐫𝐧 𝐦𝐨𝐫𝐞 𝐚𝐭 /𝐡𝐞𝐥𝐩**"
