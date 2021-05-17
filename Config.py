@@ -28,7 +28,7 @@ class Messages():
         
         "**Setup**\n```𝐅𝐢𝐫𝐬𝐭 𝐨𝐟 𝐚𝐥𝐥 𝐚𝐝𝐝 𝐦𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩 𝐚𝐬 𝐚𝐝𝐦𝐢𝐧 𝐰𝐢𝐭𝐡 𝐛𝐚𝐧 𝐮𝐬𝐞𝐫𝐬 𝐩𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐚𝐧𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐬 𝐚𝐝𝐦𝐢𝐧.\n𝐍𝐨𝐭𝐞 ⚠️ : 𝐎𝐧𝐥𝐲 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐩 𝐜𝐚𝐧 𝐬𝐞𝐭𝐮𝐩 𝐦𝐞 𝐚𝐧𝐝 𝐢 𝐰𝐢𝐥𝐥 𝐥𝐞𝐚𝐯𝐞 𝐭𝐡𝐞 𝐜𝐡𝐚𝐭 𝐢𝐟 𝐢 𝐚𝐦 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐡𝐚𝐭.```",
         
-        "**Commmands**\n```/ForceSubscribe - To get the current settings.\n/ForceSubscribe no/off/disable - To turn of ForceSubscribe.\n/ForceSubscribe {channel username} - To turn on and setup the channel.\n/ForceSubscribe clear - To unmute all members who muted by me.\n\nNote: /FSub is an alias of /ForceSubscribe```",
+        "**Commmands**\n```/ForceSubscribe``` - To get the current settings.\n```/ForceSubscribe no/off/disable``` - To turn of ForceSubscribe.\n```/ForceSubscribe {channel username}``` - To turn on and setup the channel.\n```/ForceSubscribe clear``` - To unmute all members who muted by me.\n\nNote: ***/FSub is an alias of /ForceSubscribe***",
         
         "**Developed by @viperadnan**"
       ]
