@@ -35,6 +35,8 @@ Add [APP_ID](https://my.telegram.org/apps), [API_HASH](https://my.telegram.org/a
 python3 bot.py
 ```
 
-## ```👨‍💻 Developer``` - [Kunal Diwan](t.me/kunaldiwan) .
+## ```👨‍💻 Developer```
+
+ [Kunal Diwan](t.me/kunaldiwan) .
 
 
