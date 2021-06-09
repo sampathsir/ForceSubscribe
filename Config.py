@@ -30,7 +30,7 @@ class Messages():
         
         "**Commmands**\n```/ForceSubscribe``` - To get the current settings.\n```/ForceSubscribe no/off/disable``` - To turn of ForceSubscribe.\n```/ForceSubscribe {channel username}``` - To turn on and setup the channel.\n```/ForceSubscribe clear``` - To unmute all members who muted by me.\n\nNote: **/FSub is an alias of /ForceSubscribe**",
         
-        "**𝐑𝐞𝐩𝐨𝐫𝐭 𝐁𝐮𝐠𝐬 🔽**"
+        "**𝐑𝐞𝐩𝐨𝐫𝐭 𝐁𝐮𝐠𝐬 **"
       ]
 
-      START_MSG = "𝐇𝐞𝐲 **[{}](tg://user?id={})**\n𝐈 𝐚𝐦 𝐅𝐨𝐫𝐜𝐞 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 - 𝐈 𝐜𝐚𝐧 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐭𝐨 𝐟𝐨𝐫𝐜𝐞 𝐦𝐞𝐦𝐛𝐞𝐫𝐬 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐛𝐞𝐟𝐨𝐫𝐞 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐠𝐫𝐨𝐮𝐩 . 𝐉𝐮𝐬𝐭 𝐚𝐧𝐝 𝐦𝐞 𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐭 𝐚𝐧𝐝 𝐬𝐞𝐭 𝐦𝐞 𝐮𝐩 .\n\n𝐇𝐢𝐭 /help 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐦𝐨𝐫𝐞 .\n\n𝐁𝐨𝐭 𝐢𝐬 𝐩𝐚𝐫𝐭 𝐨𝐟 @DevelopedBots ."
+      START_MSG = "𝐇𝐞𝐲 **[{}](tg://user?id={})**\n𝐈 𝐚𝐦 𝐅𝐨𝐫𝐜𝐞 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 - 𝐈 𝐜𝐚𝐧 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐭𝐨 𝐟𝐨𝐫𝐜𝐞 𝐦𝐞𝐦𝐛𝐞𝐫𝐬 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐛𝐞𝐟𝐨𝐫𝐞 𝐰𝐫𝐢𝐭𝐢𝐧𝐠 𝐚𝐧𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐠𝐫𝐨𝐮𝐩 . 𝐉𝐮𝐬𝐭 𝐚𝐧𝐝 𝐦𝐞 𝐢𝐧 𝐨𝐮𝐫 𝐜𝐡𝐚𝐭 𝐚𝐧𝐝 𝐬𝐞𝐭 𝐦𝐞 𝐮𝐩 .\n\n𝐇𝐢𝐭 /help 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐦𝐨𝐫𝐞 .\n\n𝐁𝐨𝐭 𝐢𝐬 𝐩𝐚𝐫𝐭 𝐨𝐟 @Dengerousbots ."
